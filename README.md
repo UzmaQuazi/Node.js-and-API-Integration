@@ -1,6 +1,6 @@
-# Node.js-and-API-Integration-
+# Node.js-and-API-Integration
 
-Configuration
+Configuration:
 To run this project, you'll need to set up your own Google API credentials. Follow these steps:
 
 Create a project in the Google Developers Console.
